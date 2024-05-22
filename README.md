@@ -1,7 +1,7 @@
 # Customer Management API
 
 ## Introduction
-Customer Management API is a web application designed to manage customers, their orders, and related data. It provides a set of RESTful API endpoints to perform CRUD operations on customers, orders, and associated entities.
+Customer Management API is a web application designed to manage customers, their orders, and related data. It provides a set of RESTful API endpoints to perform CRUD operations on customers, orders, and associated entities, with token authentication to ensure secure access and operations.
 
 ## Installation
 1. Clone the repository to your local machine.
